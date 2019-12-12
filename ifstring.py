@@ -1,6 +1,6 @@
 name = input("Wie ist dein Name?")
 
-if name == "Ayhan":
+if name == "Fred":
     print("Hallo Admin Ayhan")
 elif name == "Max":
     print("Hallo User Max!")
