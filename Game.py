@@ -6,3 +6,4 @@ if guess == secret:
     print("You got it the secret - Congrats!!")
 else:
     print("You're wrong! Try again!")
+
